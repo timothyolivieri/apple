@@ -1,5 +1,4 @@
 {
-    "image": "image.",
     "main": true,
     "noindex": false,
     "page": "page.shop.merch._.html",
@@ -9,6 +8,6 @@
         "title": "Shop Merch"
     },
     "slug": "/shop/merch/*",
-    "title": "Merch",
+    "title": "Product",
     "visibility": false
 }
