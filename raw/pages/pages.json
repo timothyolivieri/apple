@@ -1,7 +1,7 @@
 [
     {
         "main": true,
-        "page": "page.shop.html",
+        "page": "page.html",
         "pages": false,
         "slug": "/shop",
         "title": "Shop",
